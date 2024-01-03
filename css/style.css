@@ -1,0 +1,3 @@
+.navbar-dark, .navbar[data-bs-theme=dark] {
+    --bs-navbar-color: rgb(255 255 255) !important;
+}
